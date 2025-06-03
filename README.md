@@ -10,7 +10,8 @@ A terminal-inspired React app that fetches and displays random cat facts with a 
 - Fetches facts from [catfact.ninja](https://catfact.ninja/fact)
 
 ## Demo
-![Meowgic Facts Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/53fd4d01-0035-4175-a472-593881c4d855)
+
 
 ## Getting Started
 
